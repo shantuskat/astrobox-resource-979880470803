@@ -48,6 +48,28 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true
+    "enableAstroBoxCreatorFeatures": true,
+    "trialDownloads": {
+      "xmb10nfc": {
+        "version": "1.0.0",
+        "file_name": "downloads/trial/10「时影」- 预览.bin"
+      },
+      "xmb10": {
+        "version": "1.0.0",
+        "file_name": "downloads/trial/10「时影」- 预览.bin"
+      },
+      "xmb9p": {
+        "version": "1.0.0",
+        "file_name": "downloads/trial/9p「时影」-预览.bin"
+      },
+      "xmb10p": {
+        "version": "1.0.0",
+        "file_name": "downloads/trial/10p「时影」-预览.bin"
+      },
+      "xmrw6": {
+        "version": "1.0.0",
+        "file_name": "downloads/trial/rw6「时影」-预览.bin"
+      }
+    }
   }
 }
