@@ -22,7 +22,7 @@
     {
       "title": "底图编辑",
       "url": "https://poolux.top/tools/watch-face/edit-template/14",
-      "icon": ""
+      "icon": "ArrowSquareOut"
     }
   ],
   "downloads": {
@@ -45,6 +45,14 @@
     "xmrw6": {
       "version": "1.0.0",
       "file_name": "downloads/rw6「时影」- 相册.bin"
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw5「时影」- 相册-xmrw5xring.bin"
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw5「时影」- 相册-xmrw5.bin"
     }
   },
   "ext": {
