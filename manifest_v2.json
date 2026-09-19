@@ -53,6 +53,14 @@
     "xmrw5": {
       "version": "1.0.0",
       "file_name": "downloads/rw5「时影」- 相册-xmrw5.bin"
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/11「时影」- 相册-xmb11.bin"
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/11「时影」- 相册-xmb11nfc.bin"
     }
   },
   "ext": {
