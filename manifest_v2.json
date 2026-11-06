@@ -2,15 +2,16 @@
   "item": {
     "id": "979880470803",
     "restype": "watchface",
-    "name": "【国庆大促】「时影」- 相册表盘",
-    "description": "「时行有迹，尘影留光」",
+    "name": "「时影」- 相册表盘",
+    "description": "「时行有迹，尘影留光」\n\n*支持自定义背景的相册表盘\n*16+可编辑跳转控件\n*独特的排版\n*以及可编辑的数据显示控件\n*实机图在后面~\n\n反馈、建议、交流？\nQQ：273793080/498544791\n摄影：Gallop2889\n感谢使用~",
     "preview": [
       "media/画板 77.png",
       "media/画板 78.png",
-      "media/画板 79.png"
+      "media/画板 79.png",
+      "media/d839d84eca64bb0906e90e066907c870.jpg"
     ],
     "icon": "media/画板 81.png",
-    "cover": "media/画板 83.png",
+    "cover": "media/画板 77.png",
     "author": [
       {
         "name": "skat",
@@ -28,39 +29,48 @@
   "downloads": {
     "xmb10nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/10「时影」- 相册.bin"
+      "file_name": "downloads/10「时影」- 相册.bin",
+      "versionCode": 65536
     },
     "xmb10": {
       "version": "1.0.0",
-      "file_name": "downloads/10「时影」- 相册.bin"
+      "file_name": "downloads/10「时影」- 相册.bin",
+      "versionCode": 65536
     },
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/9p「时影」- 相册.bin"
+      "file_name": "downloads/9p「时影」- 相册.bin",
+      "versionCode": 65536
     },
     "xmb10p": {
       "version": "1.0.0",
-      "file_name": "downloads/10p「时影」- 相册.bin"
+      "file_name": "downloads/10p「时影」- 相册.bin",
+      "versionCode": 65536
     },
     "xmrw6": {
       "version": "1.0.0",
-      "file_name": "downloads/rw6「时影」- 相册.bin"
+      "file_name": "downloads/rw6「时影」- 相册.bin",
+      "versionCode": 65536
     },
     "xmrw5xring": {
       "version": "1.0.0",
-      "file_name": "downloads/rw5「时影」- 相册-xmrw5xring.bin"
+      "file_name": "downloads/rw5「时影」- 相册.bin",
+      "versionCode": 65536
     },
     "xmrw5": {
       "version": "1.0.0",
-      "file_name": "downloads/rw5「时影」- 相册-xmrw5.bin"
+      "file_name": "downloads/rw5「时影」- 相册.bin",
+      "versionCode": 65536
     },
     "xmb11": {
       "version": "1.0.0",
-      "file_name": "downloads/11「时影」- 相册-xmb11.bin"
+      "file_name": "downloads/11「时影」- 相册.bin",
+      "versionCode": 65536
     },
     "xmb11nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/11「时影」- 相册-xmb11nfc.bin"
+      "file_name": "downloads/11「时影」- 相册.bin",
+      "versionCode": 65536
     }
   },
   "ext": {
